@@ -1,0 +1,19 @@
+{
+    "frc:conditions": [{"recipeconditions:mod_loaded": "create"}],
+    "type": "create:compacting",
+    "heatRequirement": "superheated",
+    "ingredients": [
+        {"tag": "c:cobblestone"},
+        {"item": "minecraft:nether_wart"},
+        {
+            "amount": 81000,
+            "fluid": "minecraft:lava",
+            "nbt": {}
+        }
+    ],
+    "results": [
+        {
+            "item": "minecraft:netherrack"
+        }
+    ]
+}

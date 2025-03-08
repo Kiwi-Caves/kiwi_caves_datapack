@@ -27,9 +27,20 @@ deco verdant bricks - shaped recipe duplicated as compacting
 
 Added:
 	railways:track (16 recipes) - shapeless 1 track + 1 variant ingredient yields 1
-	minecraft:stone - crushing 1 stone yields 1
+	minecraft:cobblestone - crushing 1 stone yields 1
 	minecraft:coral_blocks (5 recipes) - shapeless any 9 fan/coral of same type yields 1
 	create:tuff - compacting 2 stone + 2 andesite + 100mb lava yields 4
 
 Removed:
 	stray loot table removed
+
+[3.0.1b] 2025-03-08
+
+Added:
+	minecraft:netherrack - superheated compacting 1 cobblestone + nether wart + 1000mb lava yields 1
+
+Changed:
+	railways:track_blackstone - adds 2 gold nuggets to recycle recipe to make it more expensive than the base
+	railways:track_crimson - adds 2 gold nuggets to recycle recipe to make it more expensive than the base
+	railways:track_warped - adds 2 gold nuggets to recycle recipe to make it more expensive than the base
+	railways:track_phantom - changes recipe to 8 create:track + 1 phantom membrane = 32 phantom track to better align with base recipe

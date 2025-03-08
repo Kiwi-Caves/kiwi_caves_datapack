@@ -9,7 +9,9 @@
     "type": "minecraft:crafting_shapeless",
     "ingredients": [
         {"item": "create:track"},
-        {"item": "minecraft:warped_slab"}
+        {"item": "minecraft:warped_slab"},
+        {"item": "minecraft:gold_nugget"},
+        {"item": "minecraft:gold_nugget"}
     ],
     "result": {
         "item": "railways:track_warped",

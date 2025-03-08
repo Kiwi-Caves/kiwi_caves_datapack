@@ -1,7 +1,7 @@
 { 
     "values":
     [
-        "#minecraft:shulker_boxes",
+        "#c:shulker_boxes",
         "minecraft:barrel",
         "minecraft:chest",
         "minecraft:ender_chest",
