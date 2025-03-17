@@ -1,0 +1,11 @@
+{ 
+    "values":
+    [
+        "minecraft:gold_nugget",
+        "minecraft:gold_ingot",
+        "create:golden_sheet",
+        "minecraft:gold_block",
+        "createdeco:gold_coin",
+        "createdeco:gold_coinstack"
+    ]
+}

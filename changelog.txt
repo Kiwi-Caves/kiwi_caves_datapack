@@ -25,7 +25,7 @@ deco verdant bricks - shaped recipe duplicated as compacting
 
 [3.0b] 2025-03-06
 
-Added:
+Added Recipes:
 	railways:track (16 recipes) - shapeless 1 track + 1 variant ingredient yields 1
 	minecraft:cobblestone - crushing 1 stone yields 1
 	minecraft:coral_blocks (5 recipes) - shapeless any 9 fan/coral of same type yields 1
@@ -36,11 +36,45 @@ Removed:
 
 [3.0.1b] 2025-03-08
 
-Added:
+Added Recipes:
 	minecraft:netherrack - superheated compacting 1 cobblestone + nether wart + 1000mb lava yields 1
 
-Changed:
+Changed Recipes:
 	railways:track_blackstone - adds 2 gold nuggets to recycle recipe to make it more expensive than the base
 	railways:track_crimson - adds 2 gold nuggets to recycle recipe to make it more expensive than the base
 	railways:track_warped - adds 2 gold nuggets to recycle recipe to make it more expensive than the base
 	railways:track_phantom - changes recipe to 8 create:track + 1 phantom membrane = 32 phantom track to better align with base recipe
+
+Fixed Recipes:
+	minecraft:enchanting_bottle - fixed recipe to create:enchanting nugget
+
+Fixed Tags:
+	various tag bug fixes
+
+[3.0.2] 2025-03-16
+
+Added Tags:
+	light/industrial_lamp
+	metal_types/brass
+	metal_types/copper_exposed
+	metal_types/copper_oxidized
+	metal_types/copper_weathered
+	metal_types/gold
+	metal_types/industrial_iron
+	metal_types/iron
+	metal_types/zinc
+	window_panes
+
+Changed Tags:
+	light/light - add #light/industrial_lamp
+	metal_types/andesite_alloy - added createdeco items
+	metal_types/copper - remove oxidization variants to their own tags, added createdeco items
+	stone_types/blue_brick - added corner variants and walls
+	stone_types/dean_brick - added corner variants and walls
+	stone_types/dusk_brick - added corner variants and walls
+	stone_types/pearl_brick - added corner variants and walls
+	stone_types/scarlet_brick - added corner variants and walls
+	stone_types/umber_brick - added corner variants and walls
+	stone_types/verdant_brick - added corner variants and walls
+	window_blocks - added createdeco variants
+

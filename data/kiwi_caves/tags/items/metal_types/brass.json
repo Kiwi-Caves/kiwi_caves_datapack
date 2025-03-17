@@ -1,0 +1,34 @@
+{ 
+    "values":
+    [
+        "create:brass_nugget",
+        "create:brass_ingot",
+        "create:brass_sheet",
+        "create:brass_block",
+        "createdeco:brass_coin",
+        "createdeco:brass_coinstack",
+        "create:brass_bars",
+        "create:brass_door",
+        "create:brass_ladder",
+        "create:brass_scaffolding",
+        "createdeco:brass_bars",
+        "createdeco:brass_bars_overlay",
+        "createdeco:brass_catwalk",
+        "createdeco:brass_catwalk_railing",
+        "createdeco:brass_catwalk_stairs",
+        "createdeco:brass_door",
+        "createdeco:locked_brass_door",
+        "createdeco:brass_hull",
+        "createdeco:brass_mesh_fence",
+        "createdeco:brass_sheet_metal",
+        "createdeco:brass_support",
+        "createdeco:brass_support_wedge",
+        "createdeco:brass_trapdoor",
+        "createdeco:brass_window",
+        "createdeco:brass_window_pane",
+        "createdeco:blue_brass_lamp",
+        "createdeco:green_brass_lamp",
+        "createdeco:red_brass_lamp",
+        "createdeco:yellow_brass_lamp"
+    ]
+}
