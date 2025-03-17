@@ -6,6 +6,7 @@
         "create:golden_sheet",
         "minecraft:gold_block",
         "createdeco:gold_coin",
-        "createdeco:gold_coinstack"
+        "createdeco:gold_coinstack",
+        "minecraft:light_weighted_pressure_plate"   
     ]
 }
