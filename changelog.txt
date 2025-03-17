@@ -69,6 +69,7 @@ Changed Tags:
 	light/light - add #light/industrial_lamp
 	metal_types/andesite_alloy - added createdeco items
 	metal_types/copper - remove oxidization variants to their own tags, added createdeco items
+	stone_types/brick - added corner variants and walls
 	stone_types/blue_brick - added corner variants and walls
 	stone_types/dean_brick - added corner variants and walls
 	stone_types/dusk_brick - added corner variants and walls
@@ -77,4 +78,6 @@ Changed Tags:
 	stone_types/umber_brick - added corner variants and walls
 	stone_types/verdant_brick - added corner variants and walls
 	window_blocks - added createdeco variants
+	wood_types/crimson - removed nylium
+	wood_types/warped - removed nylium
 
