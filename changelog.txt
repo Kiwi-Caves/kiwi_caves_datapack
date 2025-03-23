@@ -81,3 +81,7 @@ Changed Tags:
 	wood_types/crimson - removed nylium
 	wood_types/warped - removed nylium
 
+[3.0.3] 2025-03-23
+
+Changed Tags:
+	metal_types/iron - add ornate iron window/pane

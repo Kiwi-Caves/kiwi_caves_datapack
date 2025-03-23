@@ -11,6 +11,8 @@
         "minecraft:iron_bars",
         "minecraft:iron_door",
         "minecraft:iron_trapdoor",
+        "create:ornate_iron_window",
+        "create:ornate_iron_window_pane",
         "createdeco:iron_bars_overlay",
         "createdeco:iron_catwalk",
         "createdeco:iron_catwalk_railing",
