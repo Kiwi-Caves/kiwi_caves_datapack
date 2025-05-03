@@ -85,3 +85,8 @@ Changed Tags:
 
 Changed Tags:
 	metal_types/iron - add ornate iron window/pane
+
+[3.0.4] 2025-05-02
+
+Added Recipes:
+	minecraft:name_tag - Washing a nametag clears its anvil uses and custom name.
