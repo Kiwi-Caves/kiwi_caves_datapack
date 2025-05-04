@@ -86,7 +86,14 @@ Changed Tags:
 Changed Tags:
 	metal_types/iron - add ornate iron window/pane
 
-[3.0.4] 2025-05-02
+[3.0.4] 2025-05-03
 
 Added Recipes:
 	minecraft:name_tag - Washing a nametag clears its anvil uses and custom name.
+	
+Changed Recipe:
+	minecraft:brain_coral_block - reduce from 9x9 to 4x4
+	minecraft:bubble_coral_block - reduce from 9x9 to 4x4
+	minecraft:fire_coral_block - reduce from 9x9 to 4x4
+	minecraft:horn_coral_block - reduce from 9x9 to 4x4
+	minecraft:tube_coral_block - reduce from 9x9 to 4x4
