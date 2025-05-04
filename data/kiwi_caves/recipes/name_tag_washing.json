@@ -1,0 +1,14 @@
+{
+    "type": "create:splashing",
+    "ingredients": [
+    	{
+    		"item": "minecraft:name_tag"
+    	}
+    ],
+  "results": [
+    {
+      "item": "minecraft:name_tag",
+      "count": 1
+    }
+  ]
+}
