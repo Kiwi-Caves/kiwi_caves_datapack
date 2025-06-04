@@ -1,0 +1,18 @@
+{
+    "frc:conditions": [
+        {
+            "recipeconditions:mod_loaded": "create"
+        }
+    ],
+    "type": "create:crushing",
+    "ingredients": [
+    	{"item": "minecraft:deepslate"}
+    ],
+	"results": [
+		{
+			"item": "minecraft:cobbled_deepslate",
+			"count": 1
+		}
+	],
+	"processingTime": 250
+}

@@ -90,10 +90,16 @@ Changed Tags:
 
 Added Recipes:
 	minecraft:name_tag - Washing a nametag clears its anvil uses and custom name.
-	
+
 Changed Recipe:
-	minecraft:brain_coral_block - reduce from 9x9 to 4x4
-	minecraft:bubble_coral_block - reduce from 9x9 to 4x4
-	minecraft:fire_coral_block - reduce from 9x9 to 4x4
-	minecraft:horn_coral_block - reduce from 9x9 to 4x4
-	minecraft:tube_coral_block - reduce from 9x9 to 4x4
+	minecraft:brain_coral_block - reduce from 3x3 to 2x2
+	minecraft:bubble_coral_block - reduce from 3x3 to 2x2
+	minecraft:fire_coral_block - reduce from 3x3 to 2x2
+	minecraft:horn_coral_block - reduce from 3x3 to 2x2
+	minecraft:tube_coral_block - reduce from 3x3 to 2x2
+
+[3.0.5] 2025-06-04
+
+Added Recipes:
+	minecraft:cobbled_deepslate - crushing 1 deepslate yields 1
+
